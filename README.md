@@ -1,4 +1,5 @@
 # PROG-02
 
-[embed] https://github.com/unisbarakat/PROG-02/blob/master/README.pdf [/embed]
+
+https://www.youtube.com/watch?v=abFyaJi6wug
 
