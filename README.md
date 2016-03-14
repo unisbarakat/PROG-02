@@ -1,4 +1,4 @@
 # PROG-02
 
-![alt tag](https://raw.githubusercontent.com/unisbarakat/PROG-02/master/README.pdf)
+[embed]https://github.com/unisbarakat/PROG-02/blob/master/README.pdf[/embed]
 
